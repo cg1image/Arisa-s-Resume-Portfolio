@@ -10,7 +10,8 @@
 .img-container{
     background-image: url(/img/ArisaPic2.jpg);
     background-repeat: no-repeat;
-    background-size: 30%;
-    background-position: top right;
+    background-size: 35%;
+    background-position: right 0px top -95%;
+    
     background-color: gray;
 }
