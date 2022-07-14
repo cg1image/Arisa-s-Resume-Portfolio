@@ -11,7 +11,15 @@
     background-image: url(/img/ArisaPic2.jpg);
     background-repeat: no-repeat;
     background-size: 35%;
-    background-position: right 0px top -95%;
+    background-position: right 0px top -50%;
     
     background-color: gray;
 }
+.arisaPic {
+    background-image: url("/img/ArisaPic2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    max-width: 50%;
+    border: solid 2px red;
+  }
